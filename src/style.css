@@ -1,7 +1,16 @@
-h1 {
+h1,
+h2 {
   text-align: center;
+  padding-top: 80px;
 }
 .logo {
   max-width: 50px;
   padding-left: 10px;
+}
+.frontpage-image,
+.bakery-photos {
+  margin-top: 30px;
+}
+p {
+  margin-top: 30px;
 }
